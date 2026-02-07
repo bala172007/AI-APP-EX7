@@ -173,17 +173,12 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
      # Run the game
      play_game()
 
+
 <hr>
 <h2>Output</h2>
-<img width="800" height="726" alt="image" src="https://github.com/user-attachments/assets/e172a082-9ef8-473b-8e82-ec0e22f7c916" />
+<img width="369" height="1030" alt="image" src="https://github.com/user-attachments/assets/1afd8592-3c30-4540-9964-82181ee49076" />
+<img width="275" height="648" alt="image" src="https://github.com/user-attachments/assets/c381419a-a6de-4ab2-bd73-5f86d6f548fa" />
 
-<img width="792" height="428" alt="image" src="https://github.com/user-attachments/assets/26095ab8-7fe6-486e-9cf4-d2db98d0c99d" />
-
-<img width="956" height="452" alt="image" src="https://github.com/user-attachments/assets/776169e1-da69-4a50-b292-aea7c831cc2c" />
-
-<img width="953" height="435" alt="image" src="https://github.com/user-attachments/assets/af87ba0e-1aa2-4f0a-879e-3b3f81ba44b8" />
-
-<img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/9731b584-0769-4db4-8fc8-2fa93e27ac54" />
 
 <hr>
 <h2>Result</h2>
